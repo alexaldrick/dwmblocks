@@ -21,10 +21,11 @@ static const Block blocks[] = {
 /*	{"",	"sb-forecast",	18000,	5},
 	{"",	"sb-mailbox",	180,	12},
 	{"",	"sb-nettraf",	1,	16}, */
+	{"",	"sb-countdown",	18000,	1},
 	{"",	"sb-volume",	0,	10}, 
 	{"",	"sb-battery",	5,	3},
+	/*	{"",	"sb-internet",	5,	4}, */
 	{"",	"sb-clock",	5,	1},
-	/* {"",	"sb-internet",	5,	4}, */
 	/* {"",	"sb-help-icon",	0,	15}, */
 };
 
